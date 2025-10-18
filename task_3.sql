@@ -1,0 +1,6 @@
+Tables_in_alx_book_store
+authors
+books
+customers
+order_details
+orders
