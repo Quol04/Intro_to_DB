@@ -1,6 +1,2 @@
-Tables_in_alx_book_store
-authors
-books
-customers
-order_details
-orders
+-- List all tables in the current database
+SHOW TABLES;
